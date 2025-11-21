@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**kyu1c/kyu1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  ## 👋 Hello! I'm Kyuwon Cho
+  
+  <p> I am currently a Research Intern at ID KAIST studying HCI/HAI, with a background in Design (UNIST) and Digital Healthcare Service Design. </p>
+  
+  📧 unikyu20@unist.ac.kr
+  🔗 [LinkedIn: Kyuwon Cho](https://linkedin.com/in/kyuwonc/)
+  
+</div>
